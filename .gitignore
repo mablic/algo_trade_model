@@ -1,11 +1,21 @@
 .test_data_factory
+.test_portfolio
 .vscode
-.claude
 
-# Python cache files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
 
-# Virtual environment
-.venv/
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
